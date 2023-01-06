@@ -1,6 +1,6 @@
 # V2free自动签到
 
-跟 [v2free_auto_sign](https://github.com/xiangxingxing/v2free_auto_sign)一样，只是以防丢失才重建项目，向xiangxingxing致敬
+跟 [v2free_auto_sign](https://github.com/xiangxingxing/v2free_auto_sign)一样，只是以防丢失才重建项目
 
 ### 使用教程
 
